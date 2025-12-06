@@ -7,7 +7,7 @@ const boxes = {}
 const result = []
 const mixes = {}
 const positions = {}
-const withoutDM = ['суворовская', 'богатырская', 'княжеская', 'сухой', 'кг']
+const withoutDM = ['былинная', 'гурьевская', 'суворовская', 'богатырская', 'княжеская', 'сухой', 'кг']
 
                                       // ЗАГРУЗКА EXCEL
 async function handleFileAsync(e) {
